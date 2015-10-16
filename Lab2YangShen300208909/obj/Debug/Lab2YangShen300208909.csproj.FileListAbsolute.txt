@@ -1,0 +1,10 @@
+C:\vs\Lab2YangShen300208909\Lab2YangShen300208909\bin\Debug\Lab2YangShen300208909.exe.config
+C:\vs\Lab2YangShen300208909\Lab2YangShen300208909\obj\Debug\Lab2YangShen300208909.csprojResolveAssemblyReference.cache
+C:\vs\Lab2YangShen300208909\Lab2YangShen300208909\obj\Debug\Lab2YangShen300208909.Form1.resources
+C:\vs\Lab2YangShen300208909\Lab2YangShen300208909\obj\Debug\Lab2YangShen300208909.Properties.Resources.resources
+C:\vs\Lab2YangShen300208909\Lab2YangShen300208909\obj\Debug\Lab2YangShen300208909.csproj.GenerateResource.Cache
+C:\vs\Lab2YangShen300208909\Lab2YangShen300208909\bin\Debug\Lab2YangShen300208909.exe
+C:\vs\Lab2YangShen300208909\Lab2YangShen300208909\bin\Debug\Lab2YangShen300208909.pdb
+C:\vs\Lab2YangShen300208909\Lab2YangShen300208909\bin\Debug\MySql.Data.dll
+C:\vs\Lab2YangShen300208909\Lab2YangShen300208909\obj\Debug\Lab2YangShen300208909.exe
+C:\vs\Lab2YangShen300208909\Lab2YangShen300208909\obj\Debug\Lab2YangShen300208909.pdb
